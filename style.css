@@ -130,6 +130,7 @@ main{
     height: 20px;
     width: 20px;
 }
+/* ICONE DEGLI AUTORI DELL'ARTICOLO */
 .a1 {background-image: url(/asset/usericon1.png);}
 .a2 {background-image: url(/asset/usericon2.png);}
 .a3 {background-image: url(/asset/usericon3.png);}
@@ -186,6 +187,7 @@ background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 }
+/* IMMAGINI DEGLI ARTICOLI */
 .first {background-image: url(/asset/img1.png) ;}
 .second {background-image: url(/asset/img2.png) ;}
 .third {background-image: url(/asset/img3.png) ;}
@@ -313,6 +315,7 @@ background-repeat: no-repeat;
     margin-right: 10px;
     border: none;
 }
+/* IMMAGINI PROFILO DEGLI UTENTI DELLA SEZIONE WHO FOLLOW */
 .uno {background-image: url(/asset/follow1.png);}
 .due {background-image: url(/asset/follow2.png);}
 .tre {background-image: url(/asset/follow3.png);}
