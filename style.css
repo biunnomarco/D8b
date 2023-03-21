@@ -28,7 +28,7 @@ header {
     height: 50%;
     width: 130px;
     min-width: 130px;
-    background-image: url(/asset/logo.png);
+    background-image: url(asset/logo.png);
     background-size: contain;
     margin-left: 150px;
 }
@@ -131,11 +131,11 @@ main{
     width: 20px;
 }
 /* ICONE DEGLI AUTORI DELL'ARTICOLO */
-.a1 {background-image: url(/asset/usericon1.png);}
-.a2 {background-image: url(/asset/usericon2.png);}
-.a3 {background-image: url(/asset/usericon3.png);}
-.a4 {background-image: url(/asset/usericon4.png);}
-.a6 {background-image: url(/asset/usericon6.png);}
+.a1 {background-image: url(asset/usericon1.png);}
+.a2 {background-image: url(asset/usericon2.png);}
+.a3 {background-image: url(asset/usericon3.png);}
+.a4 {background-image: url(asset/usericon4.png);}
+.a6 {background-image: url(asset/usericon6.png);}
 
 .who-follow h3 {
     margin: 0
@@ -188,12 +188,12 @@ background-size: contain;
 background-repeat: no-repeat;
 }
 /* IMMAGINI DEGLI ARTICOLI */
-.first {background-image: url(/asset/img1.png) ;}
-.second {background-image: url(/asset/img2.png) ;}
-.third {background-image: url(/asset/img3.png) ;}
-.fourth {background-image: url(/asset/img4.png) ;}
-.fifth {background-image: url(/asset/img5.png) ;}
-.sixth {background-image: url(/asset/img6.png) ;}
+.first {background-image: url(asset/img1.png) ;}
+.second {background-image: url(asset/img2.png) ;}
+.third {background-image: url(asset/img3.png) ;}
+.fourth {background-image: url(asset/img4.png) ;}
+.fifth {background-image: url(asset/img5.png) ;}
+.sixth {background-image: url(asset/img6.png) ;}
 
 
 /* DA QUI INIZIA LA SIDEBAR*/
@@ -231,14 +231,14 @@ background-repeat: no-repeat;
     font-weight: 200;
 }
 .minilogo {
-    background-image: url(/asset/logo-1.png);
+    background-image: url(asset/logo-1.png);
     background-size: contain;
     width: 35px;
     height: 30px;
     border: none;
 }
 .twitter {
-    background-image: url(/asset/twitter.png);
+    background-image: url(asset/twitter.png);
     background-size: contain;
     width: 25px;
     height: 20px;
@@ -316,9 +316,9 @@ background-repeat: no-repeat;
     border: none;
 }
 /* IMMAGINI PROFILO DEGLI UTENTI DELLA SEZIONE WHO FOLLOW */
-.uno {background-image: url(/asset/follow1.png);}
-.due {background-image: url(/asset/follow2.png);}
-.tre {background-image: url(/asset/follow3.png);}
+.uno {background-image: url(asset/follow1.png);}
+.due {background-image: url(asset/follow2.png);}
+.tre {background-image: url(asset/follow3.png);}
 .user-info span{
     font-size: 0.7em;
 }
@@ -349,8 +349,8 @@ background-repeat: no-repeat;
     font-size: 1.1em;
 }
 
-.primo {background-image: url(/asset/saved1.png);}
-.secondo {background-image: url(/asset/saved2.png);}
+.primo {background-image: url(asset/saved1.png);}
+.secondo {background-image: url(asset/saved2.png);}
 #see-all {
     font-family: Arial, Helvetica, sans-serif;
     color: green;
